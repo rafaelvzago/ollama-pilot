@@ -13,6 +13,7 @@ The main goal of this project is to create a secure connection between two sites
 ### License
 
 [llama3 model](https://ollama.com/library/llama3.1/blobs/f1cd752815fc)
+
 [starcode2 model](https://ollama.com/library/starcoder2/blobs/4ec42cd966c9)
 
 
@@ -29,7 +30,7 @@ This project has the objective to create a VAN (Virtual Application Newtwork) th
 - Site B: A Openshift deployment that will host the Ollama Pilot application. This application will be responsible for receiving the user input, sending it to the llama3 model, receiving the response, and sending it to the starcode2 model. The response from the starcode2 model will be sent back to the user.
   - Open Web UI: The user will interact with the application through a web interface.
 
-In order to connect the two sites, we will use Skupper(https://skupper.io/), a tool that enables secure communication between services in different environments. Skupper will be used to create a secure connection between the two sites, allowing the Ollama Pilot application to send requests to the llama3 model and receive the response from the starcode2 model.
+In order to connect the two sites, we will use [Skupper](https://skupper.io/), a tool that enables secure communication between services in different environments. Skupper will be used to create a secure connection between the two sites, allowing the Ollama Pilot application to send requests to the llama3 model and receive the response from the starcode2 model.
 
 At the end of the project you will be able to use your own CHATBOT and CODE GENERATOR without sharing your data with third parties.
 
