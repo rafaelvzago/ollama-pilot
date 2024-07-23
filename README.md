@@ -12,11 +12,11 @@ The main goal of this project is to create a secure connection between two sites
 
 ### License
 
-[(https://ollama.com/library/llama3.1/blobs/f1cd752815fc) - llama3 model](https://ollama.com/library/llama3.1/blobs/f1cd752815fc)
+[llama3 model](https://ollama.com/library/llama3.1/blobs/f1cd752815fc)
 [starcode2 model](https://ollama.com/library/starcoder2/blobs/4ec42cd966c9)
 
 
-This is for educational purposes only. The models are not hosted in this project, they are hosted by Hugging Face. The models are used for educational purposes only, if you are going to use it for commercial purposes, please check other models like [Instruct Labs](https://instruct-ai.com/).
+This is for educational purposes only. The models are not hosted in this project, they are hosted by Hugging Face. The models are used for educational purposes only, if you are going to use it for commercial purposes, please check other models like [Instruct Labs](https://instructlab.ai/).
 
 
 ## Description
