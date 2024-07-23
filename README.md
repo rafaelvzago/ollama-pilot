@@ -6,6 +6,19 @@ The main goal of this project is to create a secure connection between two sites
 
 > This solution is designed to teams/companies that want to use chatbots and code generators without sharing their data with third parties.
 
+## Disclaimer
+
+All the models used are available in the Hugging Face model hub. The models are not hosted in this project, they are hosted by Hugging Face. The models are used for educational purposes only.
+
+### License
+
+[(https://ollama.com/library/llama3.1/blobs/f1cd752815fc) - llama3 model](https://ollama.com/library/llama3.1/blobs/f1cd752815fc)
+[starcode2 model](https://ollama.com/library/starcoder2/blobs/4ec42cd966c9)
+
+
+This is for educational purposes only. The models are not hosted in this project, they are hosted by Hugging Face. The models are used for educational purposes only, if you are going to use it for commercial purposes, please check other models like [Instruct Labs](https://instruct-ai.com/).
+
+
 ## Description
 
 This project has the objective to create a VAN (Virtual Application Newtwork) that enables the connection between two sites: 
