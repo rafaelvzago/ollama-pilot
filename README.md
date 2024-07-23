@@ -8,7 +8,7 @@ The main goal of this project is to create a secure connection between two sites
 
 ## Disclaimer
 
-All the models used are available in the Hugging Face model hub. The models are not hosted in this project, they are hosted by Hugging Face. The models are used for educational purposes only.
+> All the models used are available in the Hugging Face model hub. The models are not hosted in this project, they are hosted by Hugging Face. The models are used for educational purposes only.
 
 ### License
 
