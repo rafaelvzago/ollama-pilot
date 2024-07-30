@@ -6,7 +6,7 @@
 
 The main goal of this project is to create a secure connection between two sites, enabling the communication between the engineer machine and a Instrcut Lab Model. The merlinite-7b-lab-Q4_K_M.gguf model will be used for chatbot, this model is available in the instruct lab. The license of the model is available in the [Instruct Labs](https://instructlab.ai/).
 
-But, why the banner? Well, the engineer needs to know who is better, Lebron or Jordan. The chatbot will be responsible for answering this question. The chatbot will receive the user input and send it to the llama3 model. The response from the llama3 model will be sent back to the user.
+But, why the banner? Well, the engineer needs to know who is better, Lebron or Jordan. The chatbot will be responsible for answering this question. The chatbot will receive the user input and send it to the llama3 model. The response from the merlinite model will be sent back to the user.
 
 
 
