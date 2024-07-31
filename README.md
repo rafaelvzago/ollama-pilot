@@ -236,8 +236,9 @@ ilab model chat --endpoint-url http://instructlab-ollama-pilot.apps.your-cluster
 │ Welcome to InstructLab Chat w/ MODELS/MERLINITE-7B-LAB-Q4_K_M.GGUF (type /h for help)
 ╰──────────────────────────────────────────────────────────────────────────────────────────────────────
 >>> Yes or Not question. Don't fool me. Is Lebron better then Jordan?                        [S][default]
+```
 
 
+---
 
-
-Have fun with your new chatbot with protected data! If you don´t agree with the answer, you can always ask again and train your model, but King James is the best!
+## Have fun with your new chatbot with protected data! If you don´t agree with the answer, you can always ask again and train your model, but King James is the best!
